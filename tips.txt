@@ -1,1 +1,5 @@
 predefined variables:https://code.visualstudio.com/docs/editor/variables-reference
+
+vector: https://www.geeksforgeeks.org/vector-in-cpp-stl/
+        https://www.cplusplus.com/reference/vector/vector/
+        https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/
